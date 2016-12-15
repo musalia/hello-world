@@ -1,2 +1,3 @@
 # hello-world
-new respsitory
+new respository
+i am a student at maseno university
